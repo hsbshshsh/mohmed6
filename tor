@@ -1,0 +1,3 @@
+استيراد نظام التشغيل
+اs.syatem ("clear")
+os.system ("pkg install tor")
